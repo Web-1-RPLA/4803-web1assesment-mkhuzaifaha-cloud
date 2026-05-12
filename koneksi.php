@@ -1,5 +1,5 @@
 <?php
-// Informasi koneksi database
+// <title>4903 6070625300003 Moh Khuzaifah A</title>
 $servername = "localhost";
 $username = "root"; // Ganti dengan username database Anda
 $password = ""; // Ganti dengan password database Anda
